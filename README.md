@@ -1,12 +1,7 @@
 # Some-Basic-Noob-Apps-
 The Apps  i made  during  pursuing  Rob Percival's training  at  Udemy .
-
-git init
-git add .
-git commit -am "initial commit"
-git remote add origin <your link>
-git push -u origin master
-
-They are Working Codes  From  the old  Tutorial of Rob about Android 6   some  api apps might expire   
+These are My own  Working Codes  From  the old  Tutorial of Rob and some googling  about Android 6 and Api 21-22 .  
 They currently  work  As of 25 july 2017  I have searched and changed alot of code for ease .
-Each  directory has  Screenshot inside  it  .
+Each  directory has  Screenshot inside it.
+
+<img src="https://user-images.githubusercontent.com/25671488/28622481-4c1c9e34-7232-11e7-8058-36bec0cd3760.jpg" width="30%"></img> <img src="https://user-images.githubusercontent.com/25671488/28622482-4c3a744a-7232-11e7-81fa-52ec9527a992.jpg" width="30%"></img> <img src="https://user-images.githubusercontent.com/25671488/28622483-4c446540-7232-11e7-8cc4-2dc7cee8b4cc.jpg" width="30%"></img> <img src="https://user-images.githubusercontent.com/25671488/28622484-4c446d10-7232-11e7-9ec0-3444cd2bf32c.jpg" width="30%"></img> <img src="https://user-images.githubusercontent.com/25671488/28622485-4c7a4fac-7232-11e7-8351-480c530c955c.jpg" width="30%"></img> <img src="https://user-images.githubusercontent.com/25671488/28622487-4c818268-7232-11e7-8533-ad98dd6e8ae5.jpg" width="30%"></img> <img src="https://user-images.githubusercontent.com/25671488/28622486-4c7cda7e-7232-11e7-9ef8-ee52d8f22b9a.jpg" width="30%"></img> <img src="https://user-images.githubusercontent.com/25671488/28622488-4c9cb754-7232-11e7-9196-f0a0cf7ecf14.jpg" width="30%"></img> <img src="https://user-images.githubusercontent.com/25671488/28622489-4c9d5984-7232-11e7-8236-a6ee2d1781cb.jpg" width="30%"></img> <img src="https://user-images.githubusercontent.com/25671488/28622490-4cd49192-7232-11e7-9f98-c25cb79d5684.jpg" width="30%"></img> <img src="https://user-images.githubusercontent.com/25671488/28622491-4cee2c56-7232-11e7-8448-d96d63dc9c3d.jpg" width="30%"></img> <img src="https://user-images.githubusercontent.com/25671488/28622492-4cef77dc-7232-11e7-8994-1c30c17b714f.jpg" width="30%"></img> <img src="https://user-images.githubusercontent.com/25671488/28622493-4d3d2c20-7232-11e7-89d8-fa93104cacf7.jpg" width="30%"></img> <img src="https://user-images.githubusercontent.com/25671488/28622496-4da740a6-7232-11e7-9269-91e455b32f75.jpg" width="30%"></img> <img src="https://user-images.githubusercontent.com/25671488/28622497-4da7b7fc-7232-11e7-87fd-466e8a5e1f77.jpg" width="30%"></img> <img src="https://user-images.githubusercontent.com/25671488/28622498-4dbd3cee-7232-11e7-8a38-af6826294c05.jpg" width="30%"></img> 
